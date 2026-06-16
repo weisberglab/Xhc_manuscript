@@ -6,5 +6,5 @@ Rahman A, Wagner N, Scott JC, Dung JKS, Schiffer AM, Pupko T, White RC, Savory E
 
 - `src` Contains R scripts for calculating pangenome statistics and phlowave analysis.
 - `data` Contains associated metadata, tree files, and R functions for those scripts.
-- `additional_results` Contains individual timetree figures for Xhc clades.
+- `additional_results` Contains individual timetree for Xhc clades.
  
